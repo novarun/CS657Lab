@@ -1,3 +1,7 @@
 This is the sixth file created inside feature1 branch.
 
+
 Change 2 made from local repo.
+
+Change 1 made from remote repo.
+
